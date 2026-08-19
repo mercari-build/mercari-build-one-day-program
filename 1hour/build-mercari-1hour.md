@@ -298,7 +298,7 @@ background: linear-gradient(135deg, #ffd6a5 10%, #ffadad 50%, #fdffb6 100%);
 canvas {
   border-radius: 16px;
   box-shadow: 0 12px 36px rgba(90, 58, 46, 0.25);
-  ここに 1 行足す;        ← こういうこと
+  /* ここに 1 行足す;        ← こういうこと */
 }
 ```
 
